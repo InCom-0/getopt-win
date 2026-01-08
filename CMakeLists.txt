@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 3.30...4.0)
 project(getopt VERSION 2.42.0
         DESCRIPTION "Getopt library for parsing command-line arguments, supporting ANSI and Unicode"
         HOMEPAGE_URL "https://github.com/ludvikjerabek/getopt-win"
